@@ -1,7 +1,7 @@
 /*
  * Burhanuddin Lokhandwala
  * Student Id - 991523243
- * SYST-10199 - Web Programming
+ * SYST-10199 - Fundamentals
  */
 package student;
 
