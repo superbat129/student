@@ -15,6 +15,7 @@ class StudentTest
 {
 	public static void main(String args[])
 	{
+                                        System.out.println("Hello");
 		Student s[]=new Student[5];
 		int i;
 		for(i=0;i<5;i++)
